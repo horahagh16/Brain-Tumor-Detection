@@ -14,7 +14,7 @@ The final dataset includes the following categories:
 - Individuals with a Pituitary tumor
 - Rotated images using data augmentation
 
-These images have been categorized into four directories and are accessible via Google Drive under the title `brain_dataset` with the following distribution:
+These images have been categorized into four directories and are accessible via [this link](https://drive.google.com/drive/folders/1IXChVne-dqAyy4HN7GykE6vAmUmq6gfu?usp=drive_link) under the title `brain_dataset` with the following distribution:
 - train/no -> 1473 images
 - train/yes -> 2630 images
 - test/no -> 250 images
